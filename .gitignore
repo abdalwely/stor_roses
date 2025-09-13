@@ -26,3 +26,4 @@ flutter_*.png
 # IntelliJ
 *.iml
 .idea/
+.env
